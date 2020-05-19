@@ -13,10 +13,10 @@ I was born and raised in San Antonio, TX. I still miss it and would love to move
 Here's a picture of the ALAMO! 
 
 ``` {r graphics, out.width = "50%", echo = FALSE}
-knitr::include_graphics("alamo.png") 
+knitr::include_graphics("images\alamo.png") 
 ```
 
 
 ### Contact me
 
-[email@domain.com](mailto:smmclau3@ncsu.edu)
+[smmclau3@ncsu.edu](mailto:smmclau3@ncsu.edu)
