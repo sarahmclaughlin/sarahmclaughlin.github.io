@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Introduction 
 My name is **Sarah McLaughlin** and I am a *Masters of Statistics* student at `NC State`! 
 
 ### More Information
