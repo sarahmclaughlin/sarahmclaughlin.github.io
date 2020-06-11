@@ -6,7 +6,7 @@ Sarah McLaughlin
 
 [Link to Project](    )    
 
-#ST 558 Project 1  
+# ST 558 Project 1  
 For this project, I was able to sharpen many of the skills that I have learned thus far in this class. 
 
 **JSON Data**  
