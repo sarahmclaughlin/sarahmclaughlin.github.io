@@ -4,7 +4,7 @@ title: Project Blog Post
 ---
 Sarah McLaughlin 
 
-[Link to Project](https://sarahmclaughlin.github.io/DST558_Project_1/)    
+[Link to Project](https://sarahmclaughlin.github.io/ST558_Project_1/)    
 
 # ST 558 Project 1  
 For this project, I was able to sharpen many of the skills that I have learned thus far in this class. 
