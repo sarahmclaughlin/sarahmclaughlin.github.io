@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Blog Post
+title: Project 2 Blog Post
 ---
 Sarah McLaughlin 
 
